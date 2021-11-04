@@ -3,6 +3,7 @@ lib/
 include/
 etc/
 share/
+datasets/zips/
 
 
 # Byte-compiled / optimized / DLL files
