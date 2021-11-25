@@ -4,7 +4,8 @@ include/
 etc/
 share/
 datasets/zips/
-
+models/
+pipelines/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
